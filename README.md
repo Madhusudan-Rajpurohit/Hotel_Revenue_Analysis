@@ -1,13 +1,13 @@
-# 🏨 Hotel Revenue Performance & Predictive Analytics Dashboard
+# Hotel Revenue Performance & Predictive Analytics Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project delivers a data-driven revenue and cancellation risk analysis of a property portfolio across a multi-year period (2015–2017). By tracking critical operational and financial benchmarks across different customer profiles and property types, this analysis isolates severe operational revenue leakage points, structural seasonal demand curves, and booking segment behaviors. 
 
 The core objective of this project is to provide actionable, executive-level insights to optimize room yield management, mitigate high cancellation defaults, and maximize overall property profitability.
 
 ---
 
-## 📊 Core Analytical Insights (Verified Data)
+## Core Analytical Insights (Verified Data)
 
 ### 1. Macro Revenue Benchmarks & Structural Seasonality
 * **The August Demand Peak:** **August** stands out as the single highest-earning month across the entire dataset, generating **€7,240,652.99** in total revenue. **July** follows as the second-highest-performing month, bringing in **€5,856,143.76**. This August spike is a recurring, structural demand pattern visible across every single year of data rather than a temporary anomaly.
@@ -24,7 +24,7 @@ The core objective of this project is to provide actionable, executive-level ins
 
 ---
 
-## 💡 Commercial Strategies for Revenue Optimization
+## Commercial Strategies for Revenue Optimization
 
 An effective Revenue Analyst turns raw data into strategic operations. Based on the exact findings above, the repository proposes the following strategic frameworks:
 
@@ -34,7 +34,7 @@ An effective Revenue Analyst turns raw data into strategic operations. Based on 
 
 ---
 
-## 🛠️ Technical Competencies Demonstrated
+## Technical Competencies Demonstrated
 * **Advanced Data Modeling & Schema Design:** Constructed relational linkages between core transaction data and secondary sort mapping tables (`Month_Sort_Map`) to optimize chronological sorting layouts.
 * **Custom Field Engineering & Expressions:** Formatted, cleaned, and processed raw data fields into reliable time-series timelines.
 * **Logical Sorting Resolution:** Successfully troubleshot and corrected text-string sorting anomalies within Business Intelligence reporting engines, mapping textual data fields directly against custom numeric parameters (`Month_Order`) to deliver chronological, error-free visuals.
